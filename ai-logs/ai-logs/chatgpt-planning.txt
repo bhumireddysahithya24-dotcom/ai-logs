@@ -1,3 +1,43 @@
-git add ai-logs
-git commit -m "Add AI logs folder"
-git push
+AI Tool: ChatGPT
+Purpose: App planning and feature idea
+Date: 28 May 2026
+AI Tool: ChatGPT
+Purpose: Project planning and feature generation
+Project: Music Mirror AI
+Date: 28 May 2026
+
+Prompt Used:
+
+Build a web app called “Music Mirror AI” — a Spotify Wrapped-style personality analyzer.
+
+The app connects to Spotify using OAuth, fetches the user’s top artists, tracks, and genres, then generates a shareable music personality profile.
+
+Core features:
+
+* Spotify login with OAuth PKCE
+* Top songs, artists, and genre analysis
+* 8 listening archetypes
+* Genre DNA pie chart
+* Mood spectrum
+* Music alter ego persona card
+* Beautiful shareable result card
+* One-tap export as PNG image
+
+Design:
+
+* Spotify Wrapped inspired
+* Bold gradients
+* Glassmorphism cards
+* Fun Gen-Z personality copy
+* Mobile responsive layout
+
+Tech stack:
+
+* React + Vite
+* Tailwind CSS
+* Spotify Web API
+* Recharts
+* html-to-image
+
+Goal:
+Create a polished viral personality web app that feels fun, aesthetic, and easy to share.
